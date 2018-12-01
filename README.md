@@ -17,6 +17,7 @@
 - :one: laravel [site](https://laravel.ru/) 
 - :two: bitrix [site](https://www.1c-bitrix.ru/) #cms #portal #crm 
 - :three: symfony [site](https://symfony.com/) 
+- :four: wordpress [site](https://wordpress.org/) #cms
 ## Cloud 
 - :one: digitalocean [site](https://www.digitalocean.com/)
 - :two: vultr [site](https://www.vultr.com/)
