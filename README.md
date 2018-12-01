@@ -17,8 +17,18 @@
 - :one: laravel [site](https://laravel.ru/) 
 - :two: bitrix [site](https://www.1c-bitrix.ru/) #cms #portal #crm 
 - :three: symfony [site](https://symfony.com/) 
-# Cloud 
+## Cloud 
 - :one: digitalocean [site](https://www.digitalocean.com/)
 - :two: vultr [site](https://www.vultr.com/)
 - :three: hetzner [site](https://www.hetzner.com/) #price+power
 - :four: timeweb [site](https://timeweb.ru/)
+## Bundlers
+- :one: webpack [site](https://webpack.js.org/)
+- :two: gulp [site](https://gulpjs.com/)
+- :three: rollup [site](https://rollupjs.org/)
+## Error tracking
+- :one: sentry [site](https://sentry.io/)
+- :two: rollbar [site](https://rollbar.com/)
+## Tools
+- shields [site](https://shields.io/) | [github](https://github.com/badges/shields) 
+- regex [site](https://regex101.com/) #regular+expressions
