@@ -1,6 +1,6 @@
 ## languages
-- nodejs [site] (https://nodejs.org/en/)
-- php [site] (http://php.net/)
+- nodejs [site](https://nodejs.org/en/)
+- php [site](http://php.net/)
 ...
 ## testing
 - cypress [site](https://www.cypress.io/)
