@@ -5,11 +5,15 @@
 - :one: cypress [site](https://www.cypress.io/)
 - :two: mocha [site](https://mochajs.org/)
 - :three: chai [site](https://www.chaijs.com/)
-## Frameworks
+## Frameworks (js)
 - :one: vue [site](https://vuejs.org/) | [github](https://github.com/vuejs/vue)
 - :two: nuxt [site](https://nuxtjs.org/) | [github](https://github.com/nuxt/nuxt.js)
-- :three: vuetify #css+js [site](https://vuetifyjs.com) | [github](https://github.com/vuetifyjs/vuetify)
+- :x: vuetify [site](https://vuetifyjs.com) | [github](https://github.com/vuetifyjs/vuetify) #css+js 
 - :four: react [site](https://reactjs.org/) | [github](https://github.com/facebook/react)
-- :five: semantic ui #css+js [site](https://semantic-ui.com/) | [github](https://github.com/Semantic-Org/Semantic-UI)
-- :six: bootstrap #css+js [site](https://getbootstrap.com/) | [github](https://github.com/twbs/bootstrap)
-- :seven: element #css+js [site](https://element.eleme.io/) | [github](https://element.eleme.io/)
+- :five: semantic ui [site](https://semantic-ui.com/) | [github](https://github.com/Semantic-Org/Semantic-UI) #css+js
+- :six: bootstrap [site](https://getbootstrap.com/) | [github](https://github.com/twbs/bootstrap) #css+js 
+- :seven: element [site](https://element.eleme.io/) | [github](https://element.eleme.io/) #css+js
+# Cloud 
+- :one: digitalocean [site](https://www.digitalocean.com/)
+- :two: vultr [site](https://www.vultr.com/)
+- :power: hetzner [site](https://www.hetzner.com/) #price+power leader
