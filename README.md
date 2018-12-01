@@ -1,10 +1,6 @@
 ## Languages
 - :one: nodejs [site](https://nodejs.org/en/)
 - :two: php [site](http://php.net/)
-## Testing
-- :one: cypress [site](https://www.cypress.io/)
-- :two: mocha [site](https://mochajs.org/)
-- :three: chai [site](https://www.chaijs.com/)
 ## Frameworks (js)
 - :one: vue [site](https://vuejs.org/) | [github](https://github.com/vuejs/vue)
 - :two: nuxt [site](https://nuxtjs.org/) | [github](https://github.com/nuxt/nuxt.js)
@@ -27,6 +23,10 @@
 - :one: webpack [site](https://webpack.js.org/)
 - :two: gulp [site](https://gulpjs.com/)
 - :three: rollup [site](https://rollupjs.org/)
+## Testing
+- :one: cypress [site](https://www.cypress.io/)
+- :two: mocha [site](https://mochajs.org/)
+- :three: chai [site](https://www.chaijs.com/)
 ## Error tracking
 - :one: sentry [site](https://sentry.io/)
 - :two: rollbar [site](https://rollbar.com/)
