@@ -20,4 +20,5 @@
 # Cloud 
 - :one: digitalocean [site](https://www.digitalocean.com/)
 - :two: vultr [site](https://www.vultr.com/)
-- :three: hetzner [site](https://www.hetzner.com/) #price+power leader
+- :three: hetzner [site](https://www.hetzner.com/) #price+power
+- :four: timeweb [site](https://timeweb.ru/)
