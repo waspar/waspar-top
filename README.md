@@ -27,6 +27,9 @@
 - :one: cypress [site](https://www.cypress.io/)
 - :two: mocha [site](https://mochajs.org/)
 - :three: chai [site](https://www.chaijs.com/)
+## Code formatting
+- :one: prettier [site](https://prettier.io/) | [github](https://github.com/prettier/prettier)
+- :two: jslint [site](http://jslint.com/) | [github](https://github.com/reid/node-jslint)
 ## Error tracking
 - :one: sentry [site](https://sentry.io/)
 - :two: rollbar [site](https://rollbar.com/)
