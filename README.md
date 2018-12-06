@@ -44,7 +44,7 @@
 ## Continuous Integration
 - :one: travis [site](https://travis-ci.org/)
 - :two: jenkins [site](https://jenkins.io/)
-- :two: bitbucket pipelines [site](https://bitbucket.org/product/features/pipelines)
+- :three: bitbucket pipelines [site](https://bitbucket.org/product/features/pipelines)
 ## Git
 - :one: github [site](https://github.com/)
 - :two: bitbucket [site](https://bitbucket.org/)
