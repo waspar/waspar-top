@@ -46,6 +46,7 @@
 - :two: bitbucket pipelines [site](https://bitbucket.org/product/features/pipelines)
 - :three: circle [site](https://circleci.com/)
 - :four: jenkins [site](https://jenkins.io/)
+- :five: codeship [site](https://codeship.com/)
 ## Git
 - :one: github [site](https://github.com/)
 - :two: bitbucket [site](https://bitbucket.org/)
