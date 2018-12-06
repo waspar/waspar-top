@@ -24,10 +24,10 @@
 - :two: gulp [site](https://gulpjs.com/)
 - :three: rollup [site](https://rollupjs.org/)
 ## Databases 
-> ### Databases - NoSQL
+> ### Databases | NoSQL
 - :one: redis [site](https://redis.io/)
 - :two: firebase [site](https://firebase.google.com/)
-> ### Databases - RDBMS
+> ### Databases | RDBMS
 - :one: mysql [site](https://www.mysql.com/)
 - :two: postgresql [site](https://www.postgresql.org/)
 - :three: oracle [site](https://www.oracle.com/database/)
